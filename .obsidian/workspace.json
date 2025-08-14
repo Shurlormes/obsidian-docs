@@ -150,23 +150,13 @@
               "icon": "lucide-list",
               "title": "使用Git实现同步Obsidian文档同步 的大纲"
             }
-          },
-          {
-            "id": "6d88eba7f5d29158",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41abe561c95a4a10",
+  "active": "47e1b8bdd1dbd765",
   "lastOpenFiles": [
     "Obsidian使用心得/attachments/Pasted image 20250814163517.png",
     "Obsidian使用心得/attachments",
