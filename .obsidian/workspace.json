@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d79c07d76c3dc185",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76af12004a3844d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fa8733a3ac4dc45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "662ce5cf0145b1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cee707040e42cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ec86f7b179c2fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ff78653f2acc83d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "491f11296095eb39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c28836f0f0fec934",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84f6862d211086c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3199bb415bd382dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "使用Git实现同步Obsidian文档同步.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "使用Git实现同步Obsidian文档同步 的反向链接列表"
+            }
+          },
+          {
+            "id": "aaca955072e6fbbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "使用Git实现同步Obsidian文档同步.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "使用Git实现同步Obsidian文档同步 的出链列表"
+            }
+          },
+          {
+            "id": "dbed42fa2039761a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "47e1b8bdd1dbd765",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "92943935e5ff9b78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 577.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0fa8733a3ac4dc45",
+  "lastOpenFiles": [
+    "使用Git实现同步Obsidian文档同步.md",
+    "obsidian",
+    "未命名.canvas",
+    "技术/用户签到技术方案.md",
+    "技术",
+    "其他/商业计划书.md",
+    "其他",
+    "2024-06-14.md",
+    "未命名/未命名.md"
+  ]
+}
